@@ -7,6 +7,7 @@ const utils = require('../utils');
 const program = require('commander');
 const colors = require('colors');
 const pkg = require('../package.json');
+
 // display the help text in red on the console
 const make_red = (text) => colors.red(txt);
 
@@ -46,7 +47,8 @@ program
     Object.keys(webpackConfig[1].entry).filter(entry => dirs.indexOf(entry) !== -1)
       .forEach((entryName) => {
         const entryPath = `${srcdir}/${entryName}`;
-        const cmd = `git grep "ecom-icon-" ${entryPath}`;
+        const relativePath = path.relative(basedir, entryPath);
+        const cmd = `git grep "ecom-icon-" ${relativePath}`;
         const icondir = `${entryPath}/${iconDirname}`
         utils.mkdir(icondir);
         copySvgFiles(cmd, icondir);
@@ -54,7 +56,6 @@ program
   })
 
 program.parse(process.argv)
-
 
 if (!process.argv.slice(2).length) {
   program.outputHelp(make_red);

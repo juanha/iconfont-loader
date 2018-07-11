@@ -7,12 +7,20 @@
     "url": "ssh://git@git.sankuai.com/fep/iconfont-loader.git"
   },
   "main": "index.js",
+  "files": [
+    "*.md",
+    "index.js",
+    "utils.js",
+    "svgo",
+    "bin",
+    "templates"
+  ],
   "bin": {
-    "iconf": "bin/cli.js"
+    "icon": "bin/cli.js"
   },
   "scripts": {
     "test": "semistandard --fix && cd test && yarn && yarn test",
-    "iconf": "bin/cli.js" 
+    "icon": "bin/cli.js" 
   },
   "keywords": [
     "font",
