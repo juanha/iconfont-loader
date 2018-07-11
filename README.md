@@ -1,4 +1,4 @@
-## iconfont-loader
+## @mtfe/iconfont-loader
 
 A Webpack loader that generates fonts from your SVG icons and allows you to use your icons in your HTML.
 
@@ -61,3 +61,4 @@ Learn more see `test/`
 
 icon preview html see [icons](http://msstest.sankuai.com/v1/mss_a9a6b4a841754c948f210c687fab126a/mtfe-bbia/ecom-icons.html)
 ![](http://msstest.sankuai.com/v1/mss_a9a6b4a841754c948f210c687fab126a/mtfe-bbia/icon-preview.jpg)
+
