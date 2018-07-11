@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>项目管理 小@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-135.000000, -107.000000)"></g>
+        <g id="项目管理-小@2x">
+            <g id="Oval-378-Copy-4-+-全部-6-+-Oval-45" transform="translate(2.000000, 2.000000)">
+                <circle id="Oval-378-Copy-4" fill="#5CCEB3" cx="22" cy="22" r="22"></circle>
+                <path d="M23.7162007,11.5210277 C22.7683692,10.8474188 21.2329264,10.846498 20.2837993,11.5210277 L14.8561401,15.37838 C14.383307,15.7144151 14,16.4526028 14,17.0425227 L14,28.8966744 C14,30.058309 14.941139,31 16.0917206,31 L27.9082794,31 C29.0635048,31 30,30.0608587 30,28.8966744 L30,17.0425227 C30,16.4594772 29.6141434,15.7126032 29.1438599,15.37838 L23.7162007,11.5210277 Z" id="全部-6" fill="#FFFFFF"></path>
+                <circle id="Oval-45" fill="#5CCEB3" cx="22" cy="17" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

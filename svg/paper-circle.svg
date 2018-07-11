@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>订单管理@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="22" y="24" width="32" height="36" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="36" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-40/80/120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-205.000000, -589.000000)"></g>
+        <g id="订单管理@2x">
+            <g id="Group">
+                <rect id="Rectangle-2928" fill="#82ABE6" x="0" y="0" width="80" height="80" rx="40"></rect>
+                <use id="Rectangle-314" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M27.3333333,21 L55.9959377,21 C56.550466,21 57,21.4504642 57,22.0075765 L57,54.6666667" id="Rectangle-1549" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M29,36 L46,36 C46.560004,36 47,35.5522847 47,35 C47,34.4477153 46.560004,34 46,34 L29,34 C28.439996,34 28,34.4477153 28,35 C28,35.5522847 28.439996,36 29,36 L29,36 Z" id="Shape" fill="#82ABE6"></path>
+                <path d="M29,43 L42,43 C42.5620177,43 43,42.5522847 43,42 C43,41.4477153 42.5620177,41 42,41 L29,41 C28.4379823,41 28,41.4477153 28,42 C28,42.5522847 28.4379823,43 29,43 L29,43 Z" id="Shape" fill="#82ABE6"></path>
+                <path d="M29,50 L46,50 C46.560004,50 47,49.5522847 47,49 C47,48.4477153 46.560004,48 46,48 L29,48 C28.439996,48 28,48.4477153 28,49 C28,49.5522847 28.439996,50 29,50 L29,50 Z" id="Shape" fill="#82ABE6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

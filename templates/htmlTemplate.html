@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>{{fontName}}</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			margin: 0;
+			padding: 10px 20px;
+      text-align: center;
+		}
+    ul.icons-list {
+        margin: 40px 0;
+        list-style: none;
+        overflow: hidden;
+    }
+    .clearfix {
+      zoom: 1;
+    }
+    .clearfix:after, .clearfix:before {
+        content: "";
+        display: table;
+    }
+  ul.icons-list li .icon-class {
+      display: block;
+      text-align: center;
+      -webkit-transform: scale(.83);
+      -ms-transform: scale(.83);
+      transform: scale(.83);
+      font-family: Lucida Console,Consolas;
+      white-space: nowrap;
+  }
+  ul.icons-list li:after {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      content: "Copied!";
+      text-align: center;
+      line-height: 110px;
+      color: #fff;
+      -webkit-transition: all .3s cubic-bezier(.18,.89,.32,1.28);
+      transition: all .3s cubic-bezier(.18,.89,.32,1.28);
+      opacity: 0;
+  }
+  ul.icons-list li {
+      float: left;
+      width: 16.66%;
+      text-align: center;
+      list-style: none;
+      cursor: pointer;
+      height: 100px;
+      color: #555;
+      -webkit-transition: color .3s ease-in-out,background-color .3s ease-in-out;
+      transition: color .3s ease-in-out,background-color .3s ease-in-out;
+      position: relative;
+      margin: 3px 0;
+      border-radius: 4px;
+      background-color: #fff;
+      overflow: hidden;
+      padding: 10px 0 0;
+  }
+  ul.icons-list li:hover {
+      background-color: #3DC6B6;
+      color: #fff;
+  }
+  ul.icons-list li:hover .badge {
+      color: #fff;
+  }
+  .badge {
+      font-family: Monospaced Number,Chinese Quote,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+      color: rgba(0,0,0,.65);
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      position: relative;
+      display: inline-block;
+      line-height: 1;
+      vertical-align: middle;
+  }
+  ul.icons-list li .icon-class .badge {
+      -webkit-transition: color .3s ease-in-out;
+      transition: color .3s ease-in-out;
+  }
+  ul.icons-list li {
+      float: left;
+      width: 16.66%;
+      text-align: center;
+      list-style: none;
+      cursor: pointer;
+      height: 100px;
+      color: #555;
+      -webkit-transition: color .3s ease-in-out,background-color .3s ease-in-out;
+      transition: color .3s ease-in-out,background-color .3s ease-in-out;
+      position: relative;
+      margin: 3px 0;
+      border-radius: 4px;
+      background-color: #fff;
+      overflow: hidden;
+      padding: 10px 0 0;
+  }
+  .{{baseSelector}} {
+    font-size: 24px;
+    margin: 12px 0 16px;
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+    transition: -webkit-transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out,-webkit-transform .3s ease-in-out;
+    will-change: transform;
+    }
+  ul.icons-list li:hover .{{baseSelector}} {
+        -webkit-transform: scale(1.4);
+        -ms-transform: scale(1.4);
+        transform: scale(1.4);
+    }
+  ul.icons-list li .{{baseSelector}} {
+        font-size: 24px;
+        margin: 12px 0 16px;
+        -webkit-transition: -webkit-transform .3s ease-in-out;
+        transition: -webkit-transform .3s ease-in-out;
+        transition: transform .3s ease-in-out;
+        transition: transform .3s ease-in-out,-webkit-transform .3s ease-in-out;
+        will-change: transform;
+    }
+    ul.icons-list li.copied:hover {
+        color: hsla(0,0%,100%,.2);
+    }
+    ul.icons-list li.copied:after {
+        opacity: 1;
+        top: -10px;
+    }
+    ul.icons-list li:after {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        content: "Copied!";
+        text-align: center;
+        line-height: 110px;
+        color: #fff;
+        -webkit-transition: all .3s cubic-bezier(.18,.89,.32,1.28);
+        transition: all .3s cubic-bezier(.18,.89,.32,1.28);
+        opacity: 0;
+    }
+
+		{{{styles}}}
+	</style>
+</head>
+<body>
+	<h1>{{fontName}}</h1>
+  <ul class="icons-list clearfix icons">
+	{{#each names}}
+    <li>
+      <i class="{{../baseSelector}} {{../classPrefix}}{{this}}"></i>
+      <span class="icon-class">
+        <span class="badge">{{this}}</span>
+      </span>
+    </li>
+	{{/each}}
+  </ul>
+</body>
+<script src="https://s3.meituan.net/v1/mss_b26ab1d1472a43d5ba1a45188d68470a/mtfe-palette/clipboard.min.js"></script>
+<script type="text/javascript">
+  var clipboard = new Clipboard('li', {
+    text: function(trigger) {
+      return trigger.firstElementChild.className;
+    }
+  });
+  var hideEvt; // 自动隐藏toast
+  clipboard.on('success', function(e) {
+    if (hideEvt) {
+      window.clearTimeout(hideEvt);
+    }
+    var liNode = e.trigger;
+    liNode.className = 'copied';
+    hideEvt = window.setTimeout(function() {
+      liNode.className = '';
+    }, 1000);
+    console.info('Action:', e.action);
+    console.info('Text:', e.text);
+    console.info('Trigger:', e.trigger);
+  });
+  clipboard.on('error', function(e) {
+    console.error('Action:', e.action);
+    console.error('Trigger:', e.trigger);
+  });
+</script>
+</html>
+</html>

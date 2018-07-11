@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>首页－消息条－通知</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页－消息条－通知" fill="#F76120">
+            <g id="Shape-Copy">
+                <path d="M24,4.68 L18.5423729,5.86197757e-14 L17,1.8 L22.4576271,6.48 L24,4.68 L24,4.68 Z M7,1.8 L5.45762712,5.86197757e-14 L0,4.56 L1.54237288,6.36 L7,1.8 L7,1.8 Z M13,8 L11,8 L11,14.64 L16.44,18.12 L17.4,16.68 L13,14 L13,8 Z M12,3 C5.88888889,3 1,7.88888889 1,14 C1,20.1111111 5.88888889,25 12,25 C18.1111111,25 23,20.1111111 23,14 C23,7.88888889 18.1111111,3 12,3 L12,3 Z M12,23 C6.98571429,23 3,19.0142857 3,14 C3,8.98571429 6.98571429,5 12,5 C17.0142857,5 21,8.98571429 21,14 C21,19.0142857 17.0142857,23 12,23 L12,23 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

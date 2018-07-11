@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>播放 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="80" cy="80" r="80"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="160" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-80/160/240" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-244.000000, -150.000000)"></g>
+        <g id="播放-@2x" opacity="0.8">
+            <g id="Imported-Layers">
+                <path d="M68.2512543,49.6650584 L110.223961,76.7961824 C112.592013,78.3257158 112.592013,81.6742842 110.223961,83.2038176 L68.2512543,110.334942 C65.5821794,112.062301 62,110.223966 62,107.131124 L62,52.868876 C62,49.776034 65.5821794,47.9376989 68.2512543,49.6650584" id="Fill-1" fill="#FFFFFF"></path>
+                <use id="Oval-114" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="24" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

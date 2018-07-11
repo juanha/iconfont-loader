@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>口碑管理 小 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.6929821,19 L16.588424,19 C16.2643607,19 16,19.2647823 16,19.5914078 L16,28.2326596 C16,29.2089071 16.7875015,29.9999999 17.7589339,29.9999999 L28.2410661,30 C29.2071865,30 30.140896,29.2250718 30.3147001,28.2691493 L31.6852999,20.7308507 C31.8593639,19.7734986 31.2128948,19 30.2419513,19 L22.9240252,19 C23.3364964,17.841451 23.9179619,15.9036746 24,14 C24.3285275,12.0597248 22.5071953,12 22.5071953,12 C21.6385208,12 21.2964985,13.531811 20.7466808,14.5265348 C20.2058502,15.5049994 20.0650891,16.463706 16.6929821,19 Z M12.0656128,20.5905151 C12.0293758,20.2643826 12.2557783,20 12.5784302,20 L14.4215698,20 C14.741028,20 15,20.2596464 15,20.5905151 L15,28.4094849 C15,28.7356174 14.7385349,29 14.4107513,29 L13.5892487,29 C13.2638156,29 12.9711504,28.7403536 12.9343872,28.4094849 L12.0656128,20.5905151 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="21.6518096" height="20">
+            <rect x="11.0618065" y="11" width="21.6518096" height="20" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-135.000000, -415.000000)"></g>
+        <g id="口碑管理-小-@2x">
+            <g id="Oval-378-+-Rectangle-73-Copy-2-+-Rectangle-52" transform="translate(2.000000, 2.000000)">
+                <circle id="Oval-378" fill="#FFA44F" cx="22" cy="22" r="22"></circle>
+                <g id="Rectangle-73-Copy-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-52" fill="#FFA44F" x="15" y="17" width="2" height="14"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

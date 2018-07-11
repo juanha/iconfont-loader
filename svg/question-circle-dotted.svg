@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>虚位以待@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="42" height="42" rx="21"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42" height="42" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-984.000000, -208.000000)"></g>
+        <g id="虚位以待@2x">
+            <g id="Rectangle-2928-+-Rectangle-2928-Copy-+-？-copy-3" transform="translate(3.000000, 3.000000)">
+                <rect id="Rectangle-2928" fill="#F8F8F8" x="0" y="0" width="42" height="42" rx="21"></rect>
+                <use id="Rectangle-2928-Copy" stroke="#D5D5D5" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2,2" opacity="0.868295243" xlink:href="#path-1"></use>
+                <path d="M13.5848624,13.3096154 C13.9289008,12.4442264 14.479354,11.6711573 15.2362385,10.9903846 C15.9931231,10.309612 16.8360045,9.80769392 17.7649083,9.48461538 C18.693812,9.16153685 19.6743068,9 20.706422,9 C22.7935884,9 24.5309564,9.61730152 25.918578,10.8519231 C27.3061996,12.0865446 28,13.730759 28,15.9230769 C28,16.7076969 27.8222495,17.544227 27.4667431,18.2942308 C27.1112368,19.0442345 26.8672995,19.4884621 25.1961009,21.0980769 C23.5249023,22.7076918 22.2201834,24.3890629 22,27 L19,27 C19.4863281,22.9163408 21.1421964,21.2826979 22.2201835,20.1634615 C23.2981705,19.0442252 23.9919709,18.2307718 24.3016055,17.7230769 C24.6112401,17.2153821 24.766055,16.4596204 24.766055,15.4557692 C24.766055,14.4519181 24.410554,13.5634654 23.6995413,12.7903846 C22.9885286,12.0173038 21.9564288,11.6307692 20.603211,11.6307692 C17.552737,11.6307692 16.0275229,13.4538279 16,17 L13,17 C13.0458718,15.4384532 13.240824,14.1750043 13.5848624,13.3096154 Z M19,32 L19,29 L22,29 L22,32 L19,32 Z" id="？-copy-3" fill="#D8D8D8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

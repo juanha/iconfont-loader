@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>验券 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="22" cy="22" r="22"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="44" height="44" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-984.000000, -310.000000)"></g>
+        <g id="验券-@2x">
+            <g id="Oval-84-Copy-+-Rectangle-335-Copy-+-Rectangle-335-Copy-2" transform="translate(2.000000, 2.000000)">
+                <use id="Oval-84-Copy" stroke="#A5E4DD" mask="url(#mask-2)" stroke-width="2" stroke-linecap="round" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M35,13.9979131 C35,12.8944962 34.1050211,12 33.0029953,12 L10.9970047,12 C9.89408944,12 9,12.8982606 9,13.9979131 L9,18 C11.1329618,18.3636364 12.862069,19.9916918 13,22 C12.862069,24.0083082 11.1329618,25.6363636 9,26 L9,30.0020869 C9,31.1055038 9.89497885,32 10.9970047,32 L33.0029953,32 C34.1059106,32 35,31.1017394 35,30.0020869 L35,26 C32.8670382,25.6363636 31.137931,24.0083082 31,22 C31.137931,19.9916918 32.8670382,18.3636364 35,18 L35,13.9979131 Z" id="Rectangle-335-Copy" fill="#5CCEB3"></path>
+                <path d="M18,25.0012224 L18,23.0012224 L20,23.0012224 L20,25.0012224 L18,25.0012224 L18,25.0012224 Z M18,28.0012224 C18,28.5535071 18.4438648,29.0012224 19,29.0012224 L19,29.0012224 C19.5522847,29.0012224 20,28.5573575 20,28.0012224 L20,27.0012224 L18,27.0012224 L18,28.0012224 Z M18,21.0012224 L18,19.0012224 L20,19.0012224 L20,21.0012224 L18,21.0012224 L18,21.0012224 Z M18,16 C18,15.4477153 18.4438648,15 19,15 L19,15 C19.5522847,15 20,15.4438648 20,16 L20,17 L18,17 L18,16 Z" id="Rectangle-335-Copy-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

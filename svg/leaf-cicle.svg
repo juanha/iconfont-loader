@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>新人入手@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-408.000000, -415.000000)"></g>
+        <g id="新人入手@2x">
+            <g id="Rectangle-2928-Copy-3-+-Path-305-Copy-7-+-Path-307-Copy-3" transform="translate(2.000000, 2.000000)">
+                <rect id="Rectangle-2928-Copy-3" fill="#7ACD7B" x="0" y="0" width="44" height="44" rx="22"></rect>
+                <path d="M10,14 C10.0000004,17.986658 12.7324961,27.1625039 22,22.8922675 C31.2675035,27.1625006 33.9999996,17.986657 34,14 C32.1520315,16.6180796 23.5806976,15.2623154 22,19.9281783 C20.4193024,15.2623154 11.8479685,16.6180796 10,14 Z" id="Path-305-Copy-7" fill="#FFFFFF"></path>
+                <path d="M22,22 L22,32" id="Path-307-Copy-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

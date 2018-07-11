@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>相册-上传失败</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="其他状态" transform="translate(-1408.000000, -133.000000)" fill="#FF9D3C">
+            <path d="M1426,169 C1435.94113,169 1444,160.941125 1444,151 C1444,141.058875 1435.94113,133 1426,133 C1416.05887,133 1408,141.058875 1408,151 C1408,160.941125 1416.05887,169 1426,169 Z M1423.42857,140.714286 L1428.57143,140.714286 L1428.57143,145.857143 L1423.42857,145.857143 L1423.42857,140.714286 Z M1423.42857,148.428571 L1428.57143,148.428571 L1428.57143,161.285714 L1423.42857,161.285714 L1423.42857,148.428571 Z" id="图片不合法"></path>
+        </g>
+    </g>
+</svg>

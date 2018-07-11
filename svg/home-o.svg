@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>首页@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M39,27 L39,41.0059397 C39,42.1072288 38.1041419,43 37.0011452,43 L11.065091,43 C9.96115392,43 9.06253306,42.1054862 9.05798121,41.0059397 L9,27 L7.05918302,26.9476159 C3.74936985,26.8582816 3.01166284,24.9378094 5.42036605,22.6496688 L21.8217714,7.06920191 C23.0247738,5.92641325 24.9763944,5.92219615 26.1804029,7.05937179 L42.7005361,22.6624957 C45.1116457,24.9397679 44.3802963,26.8571667 41.0772562,26.9448541 L39,27 Z M21,32.9955775 C21,32.4457352 21.4509752,32 21.990778,32 L26.009222,32 C26.5564136,32 27,32.444837 27,32.9955775 L27,43 L21,43 L21,32.9955775 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40.1186774" height="36.7907079" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-691.000000, -105.000000)"></g>
+        <g id="首页@2x" stroke="#646369" stroke-width="4">
+            <use id="Rectangle-4133-Copy" mask="url(#mask-2)" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

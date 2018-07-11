@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>复选框－未选中@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-16/32/48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-657.000000, -57.000000)"></g>
+        <g id="复选框－未选中@2x">
+            <path d="M1,1.99017859 L1,1.99017859 L1,30.0098214 C1,30.5573378 1.44275561,31 1.99017859,31 L30.0098214,31 C30.5573378,31 31,30.5572444 31,30.0098214 L31,1.99017859 C31,1.44266224 30.5572444,1 30.0098214,1 L1.99017859,1 C1.44266224,1 1,1.44275561 1,1.99017859 L1,1.99017859 Z M-2,1.99017859 C-2,-0.213536196 -0.214754403,-2 1.99017859,-2 L30.0098214,-2 C32.2135362,-2 34,-0.214754403 34,1.99017859 L34,30.0098214 C34,32.2135362 32.2147544,34 30.0098214,34 L1.99017859,34 C-0.213536196,34 -2,32.2147544 -2,30.0098214 L-2,1.99017859 L-2,1.99017859 Z" id="Shape" fill="#C8C8C8"></path>
+            <use id="Rectangle-207-Copy-4" stroke="#C8C8C8" mask="url(#mask-2)" stroke-width="6" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

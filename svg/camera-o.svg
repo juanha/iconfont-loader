@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>相机 @2x </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38,59 C50.1502645,59 60,49.1502645 60,37 C60,24.8497355 50.1502645,15 38,15 C25.8497355,15 16,24.8497355 16,37 C16,49.1502645 25.8497355,59 38,59 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="44" height="44" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M18.0446706,8.00746163 L8.00005106,8.00000229 C3.5797863,7.99671972 0,11.5775038 0,15.9979041 L0,58.9961572 C0,63.4197962 3.58174486,67 8.00005106,67 L71.9999489,67 C76.4202137,67 80,63.4201655 80,59.0042158 L80,16.0492551 C80,11.63007 76.4182551,8.05081105 71.9999489,8.04752993 L57.9695804,8.03711069 L55.4921612,3.51331159 C54.4256748,1.56589374 51.7741165,0 49.5610927,0 L26.4369212,0 C24.2158531,0 21.5684676,1.57296318 20.5058527,3.51331159 L18.0446706,8.00746163 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="67" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="icon-40/80/120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-941.000000, -430.000000)"></g>
+        <g id="相机-@2x-" stroke="#C8C8C8">
+            <g id="Path-+-Rectangle-827-+-Oval-26-Copy" transform="translate(0.000000, 6.000000)">
+                <use id="Path" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <path d="M62,20 L70,20" id="Line" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <use id="Oval-26-Copy" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

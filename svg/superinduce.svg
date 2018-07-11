@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>添加门店</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-345.000000, -299.000000)">
+        <path d="M360,327 C367.179702,327 373,321.179702 373,314 C373,306.820298 367.179702,301 360,301 C352.820298,301 347,306.820298 347,314 C347,321.179702 352.820298,327 360,327 Z M359,313 L352,313 L352,315 L359,315 L359,322 L361,322 L361,315 L368,315 L368,313 L361,313 L361,306 L359,306 L359,313 Z M360,329 C351.715729,329 345,322.284271 345,314 C345,305.715729 351.715729,299 360,299 C368.284271,299 375,305.715729 375,314 C375,322.284271 368.284271,329 360,329 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

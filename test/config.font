@@ -1,0 +1,7 @@
+module.exports = {
+  'files': [
+    './test-svg/*.svg'
+  ],
+  dest: './public',
+  'html': true,
+};

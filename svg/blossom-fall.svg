@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>消息－新差评@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-40/80/120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-573.000000, -1227.000000)"></g>
+        <g id="消息－新差评@2x">
+            <g id="Group">
+                <rect id="Rectangle-2928" fill="#A3ACBC" x="0" y="0" width="80" height="80" rx="40"></rect>
+                <path d="M53,54.0226321 L53,34.6892987 C52.6666667,18.2638051 34.459836,19.953171 32.6666667,27.590055" id="Rectangle-194" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47,38 C46.222623,30.509365 39.5735832,24.064343 32.0425908,24 L33.4703634,24 C25.9437093,24.064343 18.8093913,30.5224235 18,38 C18,41.5 19.0559667,44.8802859 19.0559667,44.8802859 C17.7764361,45.9462604 17,47.5502863 17,49.2908973 C17,52.439042 19.3831404,55 22.5,55 C26,55 27,53 27,53 L28,53 C29.0615433,54.3315338 29,55 32.5,55 C36,55 37,53 37,53 L38,53 C38,53 39,55 42.3654881,55 C45.4823477,55 48,52.439042 48,49.2908973 C48,47.561688 47.2347977,45.9551467 45.9400705,44.8775513 L46.2819084,46.3632485 C47.2331806,44.258797 47,38 47,38 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M26.177992,33.7579365 C24.2109375,36.3567176 24.627907,43.8412698 24.627907,43.8412698" id="Rectangle-194-Copy-2" stroke="#A3ACBC" stroke-width="2.09302326" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M60,38.6666667 C64.5675164,38.2270135 67.3333333,37.3333333 67.3333333,37.3333333 C67.3333333,37.3333333 63.2341831,29.7773859 58.6666667,30 C54.7658169,29.7773859 52,31.6688995 52,34.0021997 C52,36.3354999 56.0991503,38.2270135 60,38.6666667 Z" id="Oval-497" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

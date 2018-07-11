@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+  <title>加号</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="其他状态" transform="translate(-203.000000, -137.000000)" fill="#DDDDDD">
+      <path d="M226,160 L226,138.990914 C226,137.889064 226.895431,137 228,137 C229.11227,137 230,137.891363 230,138.990914 L230,160 L251.009086,160 C252.110936,160 253,160.895431 253,162 C253,163.11227 252.108637,164 251.009086,164 L230,164 L230,185.009086 C230,186.110936 229.104569,187 228,187 C226.88773,187 226,186.108637 226,185.009086 L226,164 L204.990914,164 C203.889064,164 203,163.104569 203,162 C203,160.88773 203.891363,160 204.990914,160 L226,160 Z" id="Rectangle-171-Copy"></path>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>开通外卖@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="55.5" cy="49.5" rx="8.5" ry="8.5"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="21" height="21">
+            <rect x="45" y="39" width="21" height="21" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="icon-40/80/120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-206.000000, -1370.000000)"></g>
+        <g id="开通外卖@2x">
+            <g id="Group">
+                <circle id="Oval-261-Copy-2" fill="#F4BC1A" cx="40" cy="40" r="40"></circle>
+                <path d="M33.9999996,40 C32.8954304,40 32.0000001,39.1073772 32.0000001,38.0049107 L32.0000001,23.9950893 C32.0000001,22.8932319 31.104776,22 30.0003155,22 L23.1637563,22 C22.2448891,22 21.5000001,22.7415732 21.5000001,23.6754236 L21.5000001,23.3245764 C21.5000001,24.2498873 22.2417546,25 23.1651071,25 L27.0000001,25 C27.0000001,25 19.4589843,40 19.4589843,40 C16.5,45.5 17,48.7927631 17,49 C17,53.5785526 20.4214475,57 25.0000001,57 C28.253158,57 30.6833334,54.7886403 32.0000001,52 L46.9998931,52 C48.1045212,52 48.6645648,51.1620252 48.2943356,50.1355878 C48.2943356,50.1355878 46.2578717,45.6763491 47.3321201,42.317155 C47.4014607,42.1003257 47.376918,41.9852747 47.376918,41.9852747 C47.4448939,40.8888378 46.5976134,40 45.496852,40 L35.9999992,40 L33.9999996,40 Z" id="Imported-Layers-Copy-2" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF"></path>
+                <path d="M62.6625977,39.663737 L59.2578489,28.9099735 C58.931348,27.8551243 57.7740439,27 56.6715774,27 L42.661756,27 C41.5598986,27 40.4021204,27.8546881 40.0754844,28.9099735 L36.3333333,41" id="Path-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-530-Copy-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#F4BC1A" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

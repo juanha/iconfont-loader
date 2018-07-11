@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>意见反馈 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-408.000000, -107.000000)"></g>
+        <g id="意见反馈-@2x">
+            <g id="Group" transform="translate(2.000000, 2.000000)">
+                <rect id="Rectangle-2928" fill="#7CABED" x="0" y="0" width="44" height="44" rx="22"></rect>
+                <path d="M22,11 C28.089336,11 33,15.5972174 33,21.2340426 C33,26.8708677 28.089336,31.4680851 22,31.4680851 C20.8944602,31.4680851 19.811911,31.3165404 18.7769706,31.0218565 L18.2359154,30.8677991 L17.8233299,31.2502223 C16.5120574,32.4656334 15.5292433,33 14.25,33 C13.5937671,33 13.5500879,32.9774698 13.5783756,32.9441526 C14.152818,32.2675736 14.4999998,31.4680843 14.4999999,30.4255318 C14.4999999,30 14.3467794,28.579599 13.5977223,27.8405762 C11.9415623,26.0346816 11,23.7019905 11,21.2340426 C11,15.5972174 15.910664,11 22,11 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M17.5,19 L26.5,19" id="Line" stroke="#7CABEC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M17.5,24 L23.5,24" id="Line-Copy-2" stroke="#7CABEC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

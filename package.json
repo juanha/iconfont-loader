@@ -1,0 +1,50 @@
+{
+  "name": "iconfont-loader",
+  "version": "0.1.0",
+  "description": "A WebPack loader to automaticaly generate font files and CSS to make your own icon font",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.sankuai.com/fep/iconfont-loader.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "iconf": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "semistandard --fix && cd test && yarn && yarn test",
+    "iconf": "bin/cli.js" 
+  },
+  "keywords": [
+    "font",
+    "webfont",
+    "iconfont",
+    "web",
+    "icon",
+    "generator",
+    "webpack",
+    "loader"
+  ],
+  "author": "fuhongjuan",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "hash-files": "^1.1.1",
+    "loader-utils": "^1.0.2",
+    "svgo": "^1.0.5",
+    "webfonts-generator": "^0.4.0"
+  },
+  "devDependencies": {
+    "colors": "^1.3.0",
+    "commander": "^2.16.0",
+    "css-loader": "^0.28.0",
+    "file-loader": "^0.11.1",
+    "semistandard": "*",
+    "style-loader": "^0.18.1",
+    "url-loader": "^0.5.8"
+  },
+  "semistandard": {
+    "ignore": [
+      "**/node_modules/"
+    ]
+  }
+}

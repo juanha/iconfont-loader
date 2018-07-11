@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>经营分析@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-40/80/120" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-205.000000, -745.000000)"></g>
+        <g id="经营分析@2x">
+            <g id="Oval-378-Copy-10-+-Rectangle-1536-+-Rectangle-1536-Copy">
+                <circle id="Oval-378-Copy-10" fill="#82ABE6" cx="40" cy="40" r="40"></circle>
+                <path d="M21,46.0308442 C21,44.9275751 21.79385,43.605302 22.7586992,43.0852343 L32.9079674,37.6146311 C33.8792702,37.0910848 35.4794808,37.0361276 36.4794012,37.4906369 L40.1872655,39.1760298 C41.1884111,39.631096 42.7971438,39.5779827 43.7711887,39.0623119 L57.2288113,31.9376881 C58.2070118,31.4198173 59,31.8949788 59,32.9970046 L59,55.0029942 C59,56.1059094 58.0981492,56.9999988 56.9971408,56.9999988 L23.0028592,56.9999994 C21.8967106,56.9999994 21,56.1087387 21,55.0023539 L21,46.0308442 Z" id="Rectangle-1536" fill="#FFFFFF"></path>
+                <path d="M22,36.9999999 L32.9319799,31.0042924 C33.8900209,30.449637 35.4794808,30.369461 36.488823,30.8282529 L40.1778436,32.5050804 C41.1841928,32.9625119 42.7815135,32.8956858 43.7442848,32.3565338 L58.2557152,24.3101328" id="Rectangle-1536-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

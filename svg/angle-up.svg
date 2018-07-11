@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>箭头上－灰@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-16/32/48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-463.000000, -419.000000)"></g>
+        <g id="箭头上－灰@2x" fill="#999999">
+            <g id="箭头下－灰@2x" transform="translate(6.000000, 10.000000)">
+                <path d="M17.4393398,0.434942547 L8.93933983,8.84986742 L11.0606602,8.84986742 L2.56066017,0.434942547 C1.97487373,-0.144980849 1.02512627,-0.144980849 0.439339828,0.434942547 C-0.146446609,1.01486594 -0.146446609,1.95510754 0.439339828,2.53503094 L8.93933983,10.9499558 L10,12 L11.0606602,10.9499558 L19.5606602,2.53503094 C20.1464466,1.95510754 20.1464466,1.01486594 19.5606602,0.434942547 C18.9748737,-0.144980849 18.0251263,-0.144980849 17.4393398,0.434942547 L17.4393398,0.434942547 Z" id="Shape" transform="translate(10.000000, 6.000000) scale(1, -1) translate(-10.000000, -6.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

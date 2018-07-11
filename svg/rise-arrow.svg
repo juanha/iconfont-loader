@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9px" height="20px" viewBox="0 0 9 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>上升</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-179.000000, -313.000000)">
+        <path d="M184.976341,327 L186.847161,327 C187.942835,327 188.287822,327.709284 187.608688,328.58423 L184.708099,332.321135 C184.031838,333.192379 182.92787,333.196082 182.248736,332.321135 L179.348146,328.58423 C178.671886,327.712987 179.00996,327 180.109674,327 L181.976341,327 L181.976341,314 C181.976341,313.447715 182.424056,313 182.976341,313 L183.976341,313 C184.528626,313 184.976341,313.447715 184.976341,314 L184.976341,327 Z" id="Combined-Shape" fill="#000000" transform="translate(183.478576, 322.987979) scale(1, -1) translate(-183.478576, -322.987979) "></path>
+    </g>
+</svg>

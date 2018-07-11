@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>复选框－默认选中@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32" rx="4" ry="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-16/32/48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-657.000000, -115.000000)"></g>
+        <g id="复选框－默认选中@2x">
+            <use id="Rectangle-207-Copy-4" stroke="#C8C8C8" mask="url(#mask-2)" stroke-width="6" fill="#F4F4F4" xlink:href="#path-1"></use>
+            <path d="M23.7853705,8.67133315 L11.9488752,19.6786153 L15.371581,19.6823712 L8.21865829,13.0011185 C7.20919881,12.0582237 5.62376927,12.1092688 4.6775023,13.1151309 C3.73123533,14.120993 3.78246297,15.7007727 4.79192245,16.6436675 L11.9448452,23.3249202 C12.9069441,24.2235775 14.4034681,24.2252197 15.3675511,23.3286761 L27.2040464,12.321394 C28.2155877,11.3807169 28.2703072,9.80105355 27.3262659,8.79311708 C26.3822246,7.7851806 24.7969118,7.73065608 23.7853705,8.67133315 L23.7853705,8.67133315 Z" id="Shape" fill="#C8C8C8"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>错误－圆圈红 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="icon-16/32/48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-840.000000, -295.000000)"></g>
+        <g id="错误－圆圈红-@2x">
+            <path d="M13.0973576,16 L8.60115693,11.5037993 C7.79961436,10.7022568 7.79961436,9.4026995 8.60115693,8.60115693 C9.4026995,7.79961436 10.7022568,7.79961436 11.5037993,8.60115693 L16,13.0973576 L20.4962007,8.60115693 C21.2977432,7.79961436 22.5973005,7.79961436 23.3988431,8.60115693 C24.2003856,9.4026995 24.2003856,10.7022568 23.3988431,11.5037993 L18.9026424,16 L23.3988431,20.4962007 C24.2003856,21.2977432 24.2003856,22.5973005 23.3988431,23.3988431 C22.5973005,24.2003856 21.2977432,24.2003856 20.4962007,23.3988431 L16,18.9026424 L11.5037993,23.3988431 C10.7022568,24.2003856 9.4026995,24.2003856 8.60115693,23.3988431 C7.79961436,22.5973005 7.79961436,21.2977432 8.60115693,20.4962007 L13.0973576,16 Z" id="Shape" fill="#F76120"></path>
+            <use id="Oval-1935" stroke="#F76120" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

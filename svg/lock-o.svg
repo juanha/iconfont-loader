@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-登录 密码 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,15 L24,7.5 C24,3.35786438 20.6458757,0 16.4919115,0 L15.5080885,0 C11.3614857,0 8,3.36629279 8,7.5 L8,15" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16" height="15" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M3,17.9920263 L3,27.0079737 C3,29.7649937 5.23924844,32 7.99767164,32 L24.0023284,32 C26.7624662,32 29,29.7645872 29,27.0079737 L29,17.9920263 C29,15.2350063 26.7607516,13 24.0023284,13 L7.99767164,13 C5.23753381,13 3,15.2354128 3,17.9920263 L3,17.9920263 L3,17.9920263 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="19" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="icon-16/32/48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-75.000000, -411.000000)"></g>
+        <g id="icon-登录-密码-@2x" stroke="#3DC6B6" stroke-width="4">
+            <use id="Rectangle-3332" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Path" mask="url(#mask-4)" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

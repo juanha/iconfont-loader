@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>促销工具</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="经营效果" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="促销工具" sketch:type="MSArtboardGroup" fill="#9B9B9B">
+            <path d="M10,1 C10,1 4,3.43478251 4,8 C4,10 4.99999993,11 5,11 C3.84057964,11 2,8.65217391 2,8.65217391 C2,15.6086957 6,17 9.5,17 C12.6429295,17 15.0083997,15.1663697 15.7529213,12.9691905 C15.914753,12.4916044 16,11.9968418 16,11.5 C16,8.02173913 12.8212557,7.26086957 12.821256,3.43478261 C12.821256,3.43478261 11.0434783,4.47826087 11.0434783,6.91304348 C11.0434783,6.91304348 10,6.91304348 10,1 Z M9,2.5 C9,2.5 5,5 5,8 C5,10.5 7.50000024,12.5000005 7.50000024,12.5000005 C7.50000024,12.5000005 4.5,12.5000005 3.20000005,11 C3.20000005,11 3.50000024,15.9999995 9.00000024,15.9999995 C12.0000002,15.9999995 15.0000002,14.5 15.0000002,11.5 C15.0000002,10.2999997 14.0000002,8.19999981 11.5000002,8.19999981 C8.80000019,8.19999981 9,2.5 9,2.5 Z" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

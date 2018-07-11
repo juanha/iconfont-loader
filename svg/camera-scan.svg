@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>扫一扫 @2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-24/48/72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="all" transform="translate(-1273.000000, -406.000000)"></g>
+        <g id="扫一扫-@2x" fill="#FFFFFF">
+            <path d="M10,29 L10,36.0087557 C10,37.1084896 10.8998975,38 11.9912443,38 L20,38 L20,40 L28,40 L28,38 L36.0087557,38 C37.1084896,38 38,37.1001025 38,36.0087557 L38,29 L40,29 L40,19 L38,19 L38,11.9912443 C38,10.8915104 37.1001025,10 36.0087557,10 L28,10 L28,8 L20,8 L20,10 L11.9912443,10 C10.8915104,10 10,10.8998975 10,11.9912443 L10,19 L8,19 L8,29 L10,29 Z M12.0042577,8 C9.79276724,8 8,9.78902751 8,12.0042577 L8,35.9957423 C8,38.2072328 9.78902751,40 12.0042577,40 L35.9957423,40 C38.2072328,40 40,38.2109725 40,35.9957423 L40,12.0042577 C40,9.79276724 38.2109725,8 35.9957423,8 L12.0042577,8 Z M8,23 L8,25 L40,25 L40,23 L8,23 Z" id="扫一扫-5"></path>
+        </g>
+    </g>
+</svg>

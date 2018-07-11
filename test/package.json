@@ -1,0 +1,24 @@
+{
+  "name": "iconfont-loader-test",
+  "private": true,
+  "main": "entry.js",
+  "scripts": {
+    "test": "rimraf ./dist && webpack --env production"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "rimraf": "^2.6.1",
+    "style-loader": "^0.18.2",
+    "webpack": "3.11.0",
+    "webpack-cli": "^1.5.3",
+    "webpack-dev-server": "2.7.1"
+  },
+  "standard": {
+    "ignore": [
+      "./dist"
+    ]
+  },
+  "dependencies": {
+    "extract-text-webpack-plugin": "^3.0.0"
+  }
+}

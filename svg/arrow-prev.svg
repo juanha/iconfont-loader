@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="商家中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M4.29289322,0.292893219 L0.292893219,4.29289322 C-0.0976310729,4.68341751 -0.0976310729,5.31658249 0.292893219,5.70710678 L4.29289322,9.70710678 C4.68341751,10.0976311 5.31658249,10.0976311 5.70710678,9.70710678 C6.09763107,9.31658249 6.09763107,8.68341751 5.70710678,8.29289322 L1.70710678,4.29289322 L1.70710678,5.70710678 L5.70710678,1.70710678 C6.09763107,1.31658249 6.09763107,0.683417511 5.70710678,0.292893219 C5.31658249,-0.0976310729 4.68341751,-0.0976310729 4.29289322,0.292893219 L4.29289322,0.292893219 Z" id="Shape" fill="#4A4A4A" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
