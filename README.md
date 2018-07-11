@@ -22,13 +22,10 @@ yarn add iconfont-loader
 {
   test: /\.font$/,
   loader: ExtractTextPlugin.extract({
+    fallback: 'style-loader',
     use: [
-      'style-loader',
       'css-loader',
-      {
-        loader: 'iconfont-loader',
-        options: { ... } // support options object
-      }
+      '@mtfe/iconfont-loader',
     ]
   })
 }
@@ -44,7 +41,7 @@ module.exports = {
   'classPrefix': 'myfonticon-',
   'baseSelector': '.myfonticon',
   'types': ['eot', 'woff', 'woff2', 'ttf', 'svg'],
-  'fileName': 'app.[fontname].[hash].[ext]'
+  'fileName': '[fontname].[hash].[ext]'
 };
 ```
 
