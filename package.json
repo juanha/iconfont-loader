@@ -1,6 +1,6 @@
 {
   "name": "iconfont-loader",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha.1",
   "description": "A WebPack loader to automaticaly generate font files and CSS to make your own icon font",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "test": "semistandard --fix && cd test && yarn && yarn test",
-    "icon": "bin/cli.js" 
+    "icon": "bin/cli.js"
   },
   "keywords": [
     "font",
