@@ -54,7 +54,7 @@ Then you have to require the configuration file:
 require('./myfont.font');
 ```
 
-Learn more see `test/`
+Learn more `test/`
 
 icon preview html see [icons](http://msstest.sankuai.com/v1/mss_a9a6b4a841754c948f210c687fab126a/mtfe-bbia/ecom-icons.html)
 ![](http://msstest.sankuai.com/v1/mss_a9a6b4a841754c948f210c687fab126a/mtfe-bbia/icon-preview.jpg)

@@ -40,10 +40,11 @@ program
   .option('-d, --dirname', 'assign the dir for store svg files, default is icons')
   .action(function (entryFile, options = {}) {
     const basedir = process.cwd(); 
-    const srcdir = path.resolve(basedir, 'src'); 
+    const webpackConfigPath = path.resolve(basedir, entryFile);
+    const srcdir = path.join(path.dirname(webpackConfigPath), 'src'); 
     const iconDirname = options.dirname || 'icons';
     const dirs = fs.readdirSync(srcdir);
-    const webpackConfig = require(path.resolve(basedir, entryFile));
+    const webpackConfig = require(webpackConfigPath);
     Object.keys(webpackConfig[1].entry).filter(entry => dirs.indexOf(entry) !== -1)
       .forEach((entryName) => {
         const entryPath = `${srcdir}/${entryName}`;
