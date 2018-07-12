@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "ecom-icons";
-	src: url("ecom-icons.eot?280aedb2b790c4aeb0da0ff0dbea277d?#iefix") format("embedded-opentype"),
-url("ecom-icons.woff?280aedb2b790c4aeb0da0ff0dbea277d") format("woff"),
-url("ecom-icons.woff2?280aedb2b790c4aeb0da0ff0dbea277d") format("woff2"),
-url("ecom-icons.ttf?280aedb2b790c4aeb0da0ff0dbea277d") format("truetype"),
-url("ecom-icons.svg?280aedb2b790c4aeb0da0ff0dbea277d#ecom-icons") format("svg");
+	src: url("ecom-icons.eot?f7b3fd8227f1dc787909eed1a064de87?#iefix") format("embedded-opentype"),
+url("ecom-icons.woff?f7b3fd8227f1dc787909eed1a064de87") format("woff"),
+url("ecom-icons.woff2?f7b3fd8227f1dc787909eed1a064de87") format("woff2"),
+url("ecom-icons.ttf?f7b3fd8227f1dc787909eed1a064de87") format("truetype"),
+url("ecom-icons.svg?f7b3fd8227f1dc787909eed1a064de87#ecom-icons") format("svg");
 }
 
 .ecom-icon {
