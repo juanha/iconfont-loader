@@ -4,7 +4,7 @@
   "description": "A WebPack loader to automaticaly generate font files and CSS to make your own icon font",
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.sankuai.com/fep/iconfont-loader.git"
+    "url": "git@github.com:juanha/iconfont-loader.git"
   },
   "main": "index.js",
   "files": [
