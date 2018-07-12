@@ -1,6 +1,6 @@
 {
   "name": "@mtfe/iconfont-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A WebPack loader to automaticaly generate font files and CSS to make your own icon font",
   "repository": {
     "type": "git",
