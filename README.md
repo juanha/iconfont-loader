@@ -1,4 +1,4 @@
-## @mtfe/iconfont-loader
+## iconfont-loader
 
 A Webpack loader that generates fonts from your SVG icons and allows you to use your icons in your HTML.
 
@@ -25,7 +25,7 @@ yarn add iconfont-loader
     fallback: 'style-loader',
     use: [
       'css-loader',
-      '@mtfe/iconfont-loader',
+      'iconfont-loader',
     ]
   })
 }
